@@ -27,8 +27,8 @@ gulp.task('watch', function() {
 });
 
 gulp.task('open', function() {
-  gulp.src('index.html')
+  gulp.src('top.html')
     .pipe(open());
 });
 
-gulp.task('open-app', ['open', 'watch']);
+gulp.task('default', ['open', 'watch']);
