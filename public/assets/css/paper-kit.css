@@ -4863,9 +4863,12 @@ License - nucleoapp.com/license/
   .presentation-title .catch {
     width: 100%; } }
 
+<<<<<<< HEAD
 .color-red {
   color: #c70000; }
 
+=======
+>>>>>>> 23e1142f306ed461423985fc37628921176803b2
 .section {
   padding: 50px 0 80px 0; }
   .section .title {
